@@ -8,7 +8,7 @@
     <meta name="author" content="ato">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="../library/css/styles.css" type="text/css">
-    <link rel="stylesheet" href="vandloeb_resurser.css" type="text/css">
+    <link rel="stylesheet" href="ex_synopsis.css" type="text/css">
     
     <title>Simple Map</title>
     <meta name="viewport" content="initial-scale=1.0">
@@ -17,7 +17,7 @@
 
 <body>
     <div class="container-fluid">
-        <h1>Resurser: Vandløbsundersøgelse af Vigersdal å </h1>
+        <h1>Synopsisbank - EP</h1>
         <div class="col-xs-12">
             <div class="instr_container"></div>
             <div id="explanationWrapper"></div>
@@ -27,11 +27,11 @@
     <script src="../library/custom_scripts.js"></script>
     <script type="text/javascript">
     $(document).ready(function() {
-        getAjaxData("GET", "json/vandloeb.json", false, "json");
+        getAjaxData("GET", "json/ex_synopsis.json", false, "json");
 
     });
     </script>
-    <script type="text/javascript" src="vandloeb_resurser.js"></script>
+    <script type="text/javascript" src="ex_synopsis.js"></script>
 </body>
 
 </html>
