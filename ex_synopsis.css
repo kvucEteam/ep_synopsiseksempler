@@ -1,22 +1,23 @@
 .toggle_btn {
     cursor: pointer;
-    margin-bottom: 0px;
+    margin-top: 14px;
+    font-size: 16px;
 }
 
 .glyhicontainer {
-    font-size: 17px;
+    font-size: 16px;
     padding: 0px;
-    margin-left: 7px;
+    margin-left: 1px;
     /* position: absolute; */
     color: #666;
-    border: 2px solid #666;
-    border-radius: 8px;
+ 
     padding: 4px 5px 0px 5px;
     display: inline-block;
 }
 
 .toggle_container {
     margin-top: 20px;
+    padding: 0px 100px 10px 0px;
 }
 
 img {
@@ -24,12 +25,18 @@ img {
 }
 
 .toggle_header:hover {
-    color: #05A0A8;
-    font-weight: bold;
+
+    
+    text-decoration: underline;
 }
 
 .glyhicontainer:hover {
-    color: #05A0A8;
+  
     font-weight: bold;
-    border: 2px solid #05A0A8;
+  
+}
+
+.fold_ud_objekt{
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 8px #ccc;
 }
