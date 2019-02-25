@@ -26,8 +26,12 @@ img {
 
 .toggle_header:hover {
 
-    
     text-decoration: underline;
+}
+
+.toggle_header {
+
+    text-transform: uppercase;
 }
 
 .glyhicontainer:hover {
@@ -39,4 +43,8 @@ img {
 .fold_ud_objekt{
     margin-bottom: 10px;
     box-shadow: 2px 2px 8px #ccc;
+}
+
+hr{
+    border-top: 1px solid #ddd;
 }
