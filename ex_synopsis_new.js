@@ -6,15 +6,15 @@
 
      $('.instr_container').html(instruction("Klik på overskrifterne for at læse problemformuleringen og downloade synopsen."));
 
-     
-
      for (var i = 0; i < jsonData.kategorier.length; i++) {
 
          //var infowindow = new google.maps.InfoWindow({});
 
-         HTML = '<div class="col-xs-12 fold_ud_objekt ' + js[i].type + '"><h4 class="toggle_btn"><span class="toggle_header">' + js[i].fag + ": " + js[i].emne + '</span><div class="glyhicontainer"> <span class = "glyphicon glyphicon-chevron-down"> </span> <span class="glyphicon glyphicon-chevron-up"> </span> </div></h4><div class="toggle_container">';
+         HTML = '<div class="col-xs-12 fold_ud_objekt ' + js[i].type + '"><h4 class="toggle_btn"><span class="toggle_header">' + js[i].fag + '</span><div class="glyhicontainer"> <span class = "glyphicon glyphicon-chevron-down"> </span> <span class="glyphicon glyphicon-chevron-up"> </span> </div></h4><div class="toggle_container">';
 
-
+         for (var u = 0; u < jsonData.kategorier[i].synopser.length; u++) {
+             HTML += "<p><b>Problemformulering:</b><br/>" + js[i].problemformulering + "</p>";
+         }
          //HTML += "<img class='img-responsive' src='" + js[i].header_pic + "'>";
 
          HTML += "<p><b>Problemformulering:</b><br/>" + js[i].problemformulering + "</p>";
@@ -49,7 +49,7 @@
              $(".fold_ud_objekt").eq(indeks).css("background-color", "white");
          } else {
              console.log("shown");
-             
+
              $(".toggle_container").eq(indeks).slideUp(200, function() {
                  $(".glyphicon-chevron-up").eq(indeks).hide();
                  $(".glyphicon-chevron-down").eq(indeks).show();
