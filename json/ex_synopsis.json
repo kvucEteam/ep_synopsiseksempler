@@ -1,5 +1,13 @@
 {
 	"kategorier": [{
+		"fag": "Biologi og Geografi",
+		"synopser": [{
+			"emne": "Pesticider",
+			"file": "Pesticider.pdf",
+			"problemformulering": "Hvordan påvirkes kroppen af pesticider fra vores drikkevand og hvordan kan vi sikre drikkevandskvaliteten i fremtiden?"
+
+		}]
+	},{
 		"fag": "Historie og religion",
 		"synopser": [{
 			"emne": "Inkvisitionen",
