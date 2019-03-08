@@ -7,8 +7,27 @@
 			"problemformulering": "Hvordan påvirkes kroppen af pesticider fra vores drikkevand og hvordan kan vi sikre drikkevandskvaliteten i fremtiden?"
 
 		}]
-	},{
-		"fag": "Historie og religion",
+	},
+	{
+		"fag": "Dansk og Historie",
+		"synopser": [{
+			"emne": "Dannelsen af den litteraturhistoriske periode",
+			"file": "Dansk_Hist - historiske faktorer.pdf",
+			"problemformulering": "Hvilke historiske faktorer spiller ind på dannelsen af den litteraturhistoriske periode romantikken og undergenren nationalromantikken?"
+
+		}]
+	},
+	{
+		"fag": "Historie og Biologi",
+		"synopser": [{
+			"emne": "Epidemi, pandemi og infektionssygdomme gennem historien",
+			"file": "Hist_Bio - Epidemi, pandemi og infektionssygdomme gennem historien.pdf",
+			"problemformulering": "Her i dette projekt granskes der gennem videnskabelige fakta hvad der sker i denne slags kamp, og gennem historiske fakta granskes der, hvornår og hvordan man har sporet disse kampe som vi kalder enten for epidemi og/eller pandemi, og hvordan man ved, om der er tale om epidemi/pandemi af infektionssygdomme, og hvis der er, er det eventuel kamp med en mikroorganisme i form af bakterie, eller i form af virus.<br/>Grunden til at der granskes sådan, er at få forståelse af, hvad kan man bruge denne information fra fortiden til i dag, og hvorfor.<br/>Der bruges primært to forskellige slags sygdomme til at besvare problemformuleringen, med en anden form af pandemisk sygdom (ikke-infektion) til at perspektivere med, såvel som en pandemisk infektionssygdom fra nutiden."
+
+		}]
+	},
+	{
+		"fag": "Historie og Religion",
 		"synopser": [{
 			"emne": "Inkvisitionen",
 			"file": "hist_rel_Inkvisitionen.pdf",
@@ -17,20 +36,54 @@
 		}, {
 			"emne": "Buddhismen i Danmark",
 			"file": "hist_rel_Buddhismen i Danmark.pdf",
-			"problemformulering": "Redegør for vestens møde med buddhismen med fokus på Hippie kulturen som startede i 1970 -inddrag Ole Nydahl og Hannah Nydahl som havde indflydelse i Danmark <br/>Analyser hvordan man praktiserer moderne buddhisme i Danmark med udgangspunkt i interviewet med Morten Valkær som er dansk Buddhist -med anvendelse af hermeneutisk teori<br/>Diskuter med udgangspunkt i buddhismens praktisering i Danmark, hvordan har buddhismen ændret sig fra sin originale oprindelse, i praksis og opfattelse."
+			"problemformulering": "Redegør for vestens møde med buddhismen med fokus på Hippie kulturen som startede i 1970 -inddrag Ole Nydahl og Hannah Nydahl som havde indflydelse i Danmark. <br/>Analyser hvordan man praktiserer moderne buddhisme i Danmark med udgangspunkt i interviewet med Morten Valkær som er dansk Buddhist -med anvendelse af hermeneutisk teori.<br/>Diskuter med udgangspunkt i buddhismens praktisering i Danmark, hvordan har buddhismen ændret sig fra sin originale oprindelse, i praksis og opfattelse."
 		}, {
 
 			"emne": "Mustafa Kemal. En symbol for modernitet og anti-religion",
-			"file": "hist_rel_Mustafa Kemal. En symbol for modernitet og anti-religion.pdf",
+			"file": "hist_rel_Mustafa Kemal En symbol for modernitet og anti-religion.pdf",
 			"problemformulering": "Hvilke metoder anvendte Mustafa Kemal i oprettelsen af den tyrkiske republik og hvilke længerevarende konsekvenser har de haft for landets befolkning – bl.a. under den nuværende Tyrkiets præsident Recep Tayyip Erdogan?"
 		}]
 	}, {
-		"fag": "Samfundsfag og Psykologi",
+		"fag": "Historie og Samfundsfag",
+		"synopser": [{
+			"emne": "Valget 1945 – Særlige politiske forhold efter krigen",
+			"file": "Hist_Samf - Valget 1945.pdf",
+			"problemformulering": "Hvad var årsagen til resultaterne ved folketingsvalget i oktober 1945?"
+
+		}, {
+			"emne": "Socialismen",
+			"file": "Hist_Samf - Socialismen.pdf",
+			"problemformulering": "Hvad er socialismen og hvad betyder den for velfærdsstaten Danmark i dag?"
+		}, {
+
+			"emne": "FN’s fredsbevaring under folkemordet i Rwanda samt FN’s svagheder ved konflikter",
+			"file": "Hist_Samf - FN’s fredsbevaring.pdf",
+			"problemformulering": "Hvilken rolle spillede FN for fredsbevaring under folkedrabet i Rwanda?"
+		}]
+	},
+	{
+		"fag": "Psykologi og Samfundsfag",
 		"synopser": [{
 			"emne": "Perspektiver på dannelse af sygdomsidentitet",
 			"file": "Samf_Psyk_Perspektiver_på_dannelse_af_sygdomsidentitet.pdf",
 			"problemformulering": "Hvordan kommer sygdomsidentitet til udtryk i udvalgt case fra Netpsykiater.dk og hvilke samfundsmæssige konsekvenser har den diagnostiske diskurs for dannelsen af sygdomsidentitet?"
 
-		}]
+		},
+		{
+			"emne": "Stress blandt unge",
+			"file": "Psyk_Samf - Stress blandt unge.pdf",
+			"problemformulering": "På hvilken måde stemmer teorierne om stressede unge i det senmoderne samfund overens med de unges egenopfattelse af stress i hverdagen?"
+		},
+		{
+			"emne": "onorbarn af en anonym donor",
+			"file": "Psyk_Samf - dentitetsmaessige problematikker.pdf",
+			"problemformulering": "Hvilke identitetsmæssige problematikker - om nogen - synes der at være forbundet med dét at være donorbarn af en anonym donor, i det senmoderne samfund?"
+		},
+		{
+			"emne": "Daginstitutionstilbuds betydning for den negative sociale arv",
+			"file": "Psyk_Samf - Daginstitutionstilbud betydning for den negative sociale arv.pdf",
+			"problemformulering": "Hvordan kan daginstitutionstilbud få en betydning for den negative sociale arv, især med fokus på tosprogede?"
+		}
+	]
 	}]
 }
